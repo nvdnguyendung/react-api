@@ -32,7 +32,17 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+
+tr .center {
+  text-align: center !important;
+}
+
+.mt-5 {
+  margin-bottom: 2rem;
 }
